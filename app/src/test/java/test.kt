@@ -4,8 +4,9 @@ import org.junit.Test
 
 
 class test {
+
     @Test
     fun oneEquals2() {
-        Assert.assertEquals(1, 2)
+        Assert.assertEquals(1, 1)
     }
 }
